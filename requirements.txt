@@ -1,0 +1,9 @@
+Project 'first_asp.net_api' has the following package references
+   [net9.0]: 
+   Top-level Package                                        Requested   Resolved
+   > Microsoft.AspNetCore.Identity.EntityFrameworkCore      9.0.2       9.0.2   
+   > Microsoft.AspNetCore.OpenApi                           9.0.2       9.0.2   
+   > Microsoft.EntityFrameworkCore.Design                   9.0.2       9.0.2   
+   > Microsoft.EntityFrameworkCore.SqlServer                9.0.2       9.0.2   
+   > Scalar.AspNetCore                                      2.0.*       2.0.14  
+
